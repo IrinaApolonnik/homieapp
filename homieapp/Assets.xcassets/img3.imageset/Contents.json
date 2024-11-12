@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "chaki7771_modern_chair_on_white_background_in_style_of_3d_ren_86c93b63-0357-42b5-b364-83cda318bcf9_2 (1)-Photoroom.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

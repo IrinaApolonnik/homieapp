@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "chaki7771_modern_lamp_on_white_background_in_style_of_3d_rend_13702872-f178-441b-8efc-61994c5948f1_1-Photoroom.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
